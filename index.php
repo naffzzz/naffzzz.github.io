@@ -15,7 +15,7 @@
   </head>
   <body class="body-background">
     <!-- 4 - contained in center example -->
-    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top">
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top slideInFromTop">
         <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -50,22 +50,20 @@
     <hr>
 
     <div class="container">
-      <center class="ptV2-5" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
-      <div class="row mb-5">
+      <center class="ptV2-5 slideInFromBottom" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
+      <div class="row mb-5 slideInFromBottom">
         <div class="col bg-white text-justify">
-          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia. Currently he is a programmer at the Housestack, Indonesia. He is web programmer and interest in research with mainly focus on machine learning and computer vision.</span>
+          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
+            Currently he is a programmer at the Housestack, Indonesia. He is also interest in research with mainly focus on deep learning and computer vision.</span>
         </div>
       </div>
 
-      <center id="education">
-        <h1>
-          <span class="subtitle">Education </span>
-          <span class="subtitle"><i class="fa-solid fa-school"></i></span>
-        </h1>
+      <center class="slideInFromBottom" id="education">
+        <h1 class="subtitle">Education <i class="fa-solid fa-school"></i></h1>
       </center>
       <div class="row text-center mb-5">
         <div class="col">
-          <div class="card border rounded">
+          <div class="card border rounded slideInFromLeft">
             <div class="text-info">
               <span class="fa-stack fa-4x mb-2 mt-2">
                 <i class="fa fa-circle fa-stack-2x icon-background"></i>
@@ -78,7 +76,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card border rounded">
+          <div class="card border rounded slideInFromRight">
             <div class="text-info">
               <span class="fa-stack fa-4x mb-2 mt-2">
                 <i class="fa fa-circle fa-stack-2x icon-background"></i>
@@ -92,8 +90,8 @@
         </div>
         </div>
 
-      <center id="workExperiences"><h1 class="subtitle2">Work Experiences <i class="fa-solid fa-briefcase"></i></h1></center>
-      <div class="row text-center mb-5">
+      <center id="workExperiences" class="slideInFromBottom"><h1 class="subtitle2">Work Experiences <i class="fa-solid fa-briefcase"></i></h1></center>
+      <div class="row text-center mb-5 slideInFromBottom">
         <div class="col bg-white">
           <div class="d-flex justify-content-between">
             <div>
@@ -148,8 +146,8 @@
         </div>
       </div>
 
-      <center id="programming"><h1 class="subtitle">Programming <i class="fa-solid fa-laptop-code"></i></h1></center>
-      <div class="row text-justify mb-5">
+      <center id="programming" class="slideInFromBottom"><h1 class="subtitle">Programming <i class="fa-solid fa-laptop-code"></i></h1></center>
+      <div class="row text-justify mb-5 slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span><strong>Web Programming:</strong> Laravel, React, CodeIgniter, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
@@ -175,8 +173,8 @@
         </div>
       </div>
 
-      <center id="publications"><h1 class="subtitle2">Research <i class="fa-solid fa-magnifying-glass"></i></h1></center>
-      <div class="row text-justify mb-5">
+      <center id="publications" class="slideInFromBottom"><h1 class="subtitle2">Research <i class="fa-solid fa-magnifying-glass"></i></h1></center>
+      <div class="row text-justify mb-5 slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span><strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
@@ -244,8 +242,8 @@
         </div>
       </div>
 
-      <center id="awards"><h1 class="subtitle">Awards <i class="fa-solid fa-award"></i></h1></center>
-      <div class="row text-justify mb-5">
+      <center id="awards" class="slideInFromBottom"><h1 class="subtitle">Awards <i class="fa-solid fa-award"></i></h1></center>
+      <div class="row text-justify mb-5 slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span>2021 <strong>Graduated Cum Laude with honors</strong> from Informatic Engineering Master Degree in Sepuluh Nopember Institut of Technology.</span>

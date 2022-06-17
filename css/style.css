@@ -1,3 +1,67 @@
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 100;
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 100;
+  }
+}
+
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 100;
+  }
+}
+
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 100;
+  }
+}
+
+.slideInFromLeft {
+  animation: 1.5s slideInFromLeft forwards;
+  transition: 2s all ease;
+}
+
+.slideInFromRight {
+  animation: 1.5s slideInFromRight forwards;
+  transition: 2s all ease;
+}
+
+.slideInFromTop {
+  animation: 1.5s slideInFromTop forwards;
+  transition: 2s all ease;
+}
+
+.slideInFromBottom {
+  animation: 1.5s slideInFromBottom forwards;
+  transition: 2s all ease;
+}
+
 .body-background {
   background-color: #f5f5f5;
 }
