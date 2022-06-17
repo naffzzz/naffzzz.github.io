@@ -86,7 +86,7 @@
               </span>
             </div>
             <h4>Master Degree</h4>
-            September 2019 - September 2021<br>
+            Sept 2019 - Sept 2021<br>
             Informatic Engineering, Sepuluh Nopember Institut of Technology
           </div>
         </div>
