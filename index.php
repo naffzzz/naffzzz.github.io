@@ -17,7 +17,7 @@
     <!-- 4 - contained in center example -->
     <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top">
         <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
-            <h2><strong>NAFA</strong></h2> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse text-center" id="navbarsExample11">
