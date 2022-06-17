@@ -204,7 +204,7 @@
           </div>
           <hr>
           <div>
-            <span><strong>INTAN:</strong> sistem rekomendasi gangguan indihome</span>
+            <span><strong>INTAN:</strong> Sistem rekomendasi gangguan indihome</span>
           </div>
           <hr>
         </div>
