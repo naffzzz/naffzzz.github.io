@@ -188,7 +188,7 @@
           </div>
           <hr>
           <div>
-            <span>Sistem deteksi salah ketik berbasis web</span>
+            <span>Deteksi salah ketik berbasis web</span>
           </div>
           <hr>
           <div>
@@ -196,7 +196,7 @@
           </div>
           <hr>
           <div>
-            <span>Sistem raport online SMKN 1 Blitar berbasis web</span>
+            <span><strong>ROSN1B:</strong> raport online SMKN 1 Blitar</span>
           </div>
           <hr>
           <div>
