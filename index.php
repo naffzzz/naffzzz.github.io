@@ -53,7 +53,7 @@
       <center class="ptV2-5" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
       <div class="row mb-5">
         <div class="col bg-white text-justify">
-          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engingeering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia. Currently he is a programmer at the Housestack, Indonesia. He is web programmer and interest in research with mainly focus on machine learning and computer vision.</span>
+          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia. Currently he is a programmer at the Housestack, Indonesia. He is web programmer and interest in research with mainly focus on machine learning and computer vision.</span>
         </div>
       </div>
 
@@ -73,7 +73,7 @@
               </span>
             </div>
             <h4>Bachelor Degree</h4>
-            August 2014 - July 2018<br>
+            August 2014 - August 2018<br>
             Informatic Engineering Education, Malang State University
           </div>
         </div>
@@ -100,7 +100,7 @@
               <span><i class="fa-solid fa-user-gear text-info"></i> Programmer</span>
             </div>
             <div>
-              <span>August 2019 - present</span>
+              <span>June 2019 - present</span>
             </div>
           </div>
           <div class="d-flex justify-content-between">
@@ -235,8 +235,8 @@
           <hr>
 
           <div>
-              <span><strong>Nafa Zulfa</strong></span>
-              <span>,"Pengembangan media pembelajaran interaktif pemrograman berorientasi objek bermuatan model pembelajaran teams games tournament untuk meningkatkan hasil belajar siswa kelas XI RPL SMKN 2 Singosari Kabupaten Malang"</span>
+              <span><strong>Nafa Zulfa</strong>,</span>
+              <span>"Pengembangan media pembelajaran interaktif pemrograman berorientasi objek bermuatan model pembelajaran teams games tournament untuk meningkatkan hasil belajar siswa kelas XI RPL SMKN 2 Singosari Kabupaten Malang"</span>
               Universitas Negeri Malang,
               Malang, Indonesia
             </div>
@@ -271,6 +271,8 @@
       <div id="contactMe" class="container">
         <center>
           <a href="https://www.facebook.com/naff.sugaku/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-facebook fa-xl"></i> Facebook </a>
+          <a href="https://www.instagram.com/zulfa_nafa/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-instagram"></i> Instagram </a>
+          <a href="https://www.linkedin.com/in/nafa-zulfa-ab85a1119/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-linkedin"></i> Linkedin </a>
           <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=naffzzz@gmail.com" style="text-decoration:none;" class="text-white" target="_blank"><i class="fa-solid fa-at fa-xl"></i> Email </a>
         </center>
       </div>
