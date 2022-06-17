@@ -184,7 +184,7 @@
           </div>
           <hr>
           <div>
-            <span><strong>AKSENS:</strong> Sistem konsultasi guru BK </span>
+            <span><strong>AKSENS:</strong> Aplikasi konseling kesehatan mental siswa </span>
           </div>
           <hr>
           <div>
