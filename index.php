@@ -258,7 +258,7 @@
           </div>
           <hr>
           <div>
-            <span>2009 <strong>First rank</strong> at Indonesia National Exam Olympiad in Islamic Junior High School 4 Kediri.</span>
+            <span>2009 <strong>First rank</strong> at National Exam Olympiad in Islamic Junior High School 4 Kediri.</span>
           </div>
         </div>
       </div>
