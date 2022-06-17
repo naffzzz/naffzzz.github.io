@@ -49,21 +49,21 @@
     </nav>
     <hr>
 
-    <div class="container">
-      <center class="ptV2-5 slideInFromBottom" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
-      <div class="row mb-5 slideInFromBottom">
+    <div class="container mt-5">
+      <center class="reveal slideInFromBottom" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
+      <div class="row mb-5 reveal slideInFromBottom">
         <div class="col bg-white text-justify">
           <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
             Currently he is a programmer at the Housestack, Indonesia. He is also interest in research with mainly focus on deep learning and computer vision.</span>
         </div>
       </div>
 
-      <center class="slideInFromBottom" id="education">
+      <center class="reveal slideInFromBottom" id="education">
         <h1 class="subtitle">Education <i class="fa-solid fa-school"></i></h1>
       </center>
       <div class="row text-center mb-5">
         <div class="col">
-          <div class="card border rounded slideInFromLeft">
+          <div class="card border rounded reveal slideInFromLeft">
             <div class="text-info">
               <span class="fa-stack fa-4x mb-2 mt-2">
                 <i class="fa fa-circle fa-stack-2x icon-background"></i>
@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card border rounded slideInFromRight">
+          <div class="card border rounded reveal slideInFromRight">
             <div class="text-info">
               <span class="fa-stack fa-4x mb-2 mt-2">
                 <i class="fa fa-circle fa-stack-2x icon-background"></i>
@@ -90,8 +90,8 @@
         </div>
         </div>
 
-      <center id="workExperiences" class="slideInFromBottom"><h1 class="subtitle2">Work Experiences <i class="fa-solid fa-briefcase"></i></h1></center>
-      <div class="row text-center mb-5 slideInFromBottom">
+      <center id="workExperiences" class="reveal slideInFromBottom"><h1 class="subtitle2">Work Experiences <i class="fa-solid fa-briefcase"></i></h1></center>
+      <div class="row text-center mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div class="d-flex justify-content-between">
             <div>
@@ -146,8 +146,8 @@
         </div>
       </div>
 
-      <center id="programming" class="slideInFromBottom"><h1 class="subtitle">Programming <i class="fa-solid fa-laptop-code"></i></h1></center>
-      <div class="row text-justify mb-5 slideInFromBottom">
+      <center id="programming" class="reveal slideInFromBottom"><h1 class="subtitle">Programming <i class="fa-solid fa-laptop-code"></i></h1></center>
+      <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span><strong>Web Programming:</strong> Laravel, React, CodeIgniter, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
@@ -173,8 +173,8 @@
         </div>
       </div>
 
-      <center id="publications" class="slideInFromBottom"><h1 class="subtitle2">Research <i class="fa-solid fa-magnifying-glass"></i></h1></center>
-      <div class="row text-justify mb-5 slideInFromBottom">
+      <center id="publications" class="reveal slideInFromBottom"><h1 class="subtitle2">Research <i class="fa-solid fa-magnifying-glass"></i></h1></center>
+      <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span><strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
@@ -242,8 +242,8 @@
         </div>
       </div>
 
-      <center id="awards" class="slideInFromBottom"><h1 class="subtitle">Awards <i class="fa-solid fa-award"></i></h1></center>
-      <div class="row text-justify mb-5 slideInFromBottom">
+      <center id="awards" class="reveal slideInFromBottom"><h1 class="subtitle">Awards <i class="fa-solid fa-award"></i></h1></center>
+      <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
             <span>2021 <strong>Graduated Cum Laude with honors</strong> from Informatic Engineering Master Degree in Sepuluh Nopember Institut of Technology.</span>
@@ -280,6 +280,26 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+    function reveal() {
+      var reveals = document.querySelectorAll(".reveal");
+
+      for (var i = 0; i < reveals.length; i++) {
+        var windowHeight = window.innerHeight;
+        var elementTop = reveals[i].getBoundingClientRect().top;
+        var elementVisible = 150;
+
+        if (elementTop < windowHeight - elementVisible) {
+          reveals[i].classList.add("active");
+        }
+        // else {
+        //   reveals[i].classList.remove("active");
+        // }
+      }
+    }
+    window.addEventListener("scroll", reveal);
+    </script>
+
     <script>
         $( document ).ready(function() {
           $("#biographyBtn").click(function() {
