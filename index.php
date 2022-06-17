@@ -178,7 +178,7 @@
         <div class="col bg-white">
           <div>
             <span><strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
-            <span>"Optimize facial expression classification using geometric feature and machine learning"</span>
+            <span>"Optimize facial expression classification using geometric feature and machine learning".</span>
             2021 7th International Conference on Electrical, Electronics and Information Engineering (ICEEIE),
             Malang, Indonesia
           </div>
@@ -186,7 +186,7 @@
 
           <div>
               <span>Dini Yuniasri, <strong>Nafa Zulfa</strong>, Darlis Herumurti,</span>
-              <span>"The Effect of Visual Reward and Punishment in Mobile Game on Game Experience:</span>
+              <span>"The Effect of Visual Reward and Punishment in Mobile Game on Game Experience".</span>
               2021 International Seminar on Application for Technology of Information and Communication (iSemantic),
               Semarang, Indonesia
             </div>
@@ -194,7 +194,7 @@
 
           <div>
               <span><strong>Nafa Zulfa</strong>,</span>
-              <span>"Studi Kinerja Pembacaan Bahasa Bibir Menggunakan Convolutional Neural Network, Mel-Frequency Ceptrums Coefficient, Long Short-Term Memory, dan Gated Recurrent Units"</span>
+              <span>"Studi Kinerja Pembacaan Bahasa Bibir Menggunakan Convolutional Neural Network, Mel-Frequency Ceptrums Coefficient, Long Short-Term Memory, dan Gated Recurrent Units".</span>
               Institut Teknologi Sepuluh Nopember,
               Surabaya, Indonesia
             </div>
@@ -210,7 +210,7 @@
 
           <div>
               <span>Rakha Asyrofi, <strong>Nafa Zulfa</strong>,</span>
-              <span>"CLOUDITY: Cloud supply chain framework design based on JUGO and blockchain"</span>
+              <span>"CLOUDITY: Cloud supply chain framework design based on JUGO and blockchain".</span>
               2020 6th Information Technology International Seminar (ITIS),
               Surabaya, Indonesia
             </div>
@@ -218,7 +218,7 @@
 
           <div>
               <span><strong>Nafa Zulfa</strong>, Dini Yuniasri, Putri Damayanti, Darlis Herumurti, Andhik Ampuh Yunanto,</span>
-              <span>"The Effect of UI and UX Enhancement on Bomberman Game Based on Game Experience Questionnaire (GEQ)""</span>
+              <span>"The Effect of UI and UX Enhancement on Bomberman Game Based on Game Experience Questionnaire (GEQ)".</span>
               2020 International Seminar on Application for Technology of Information and Communication (iSemantic),
               Semarang, Indonesia
             </div>
@@ -226,7 +226,7 @@
 
           <div>
               <span><strong>Nafa Zulfa</strong>, Hafara Firdausi, Rakha Asyrofi,</span>
-              <span>"CLOUTIDY: A Cloud-based Supply Chain Management System using SEMAR and Blockchain System"</span>
+              <span>"CLOUTIDY: A Cloud-based Supply Chain Management System using SEMAR and Blockchain System".</span>
               JUTI: Jurnal Ilmiah Teknologi Informasi,
               Semarang, Indonesia
             </div>
