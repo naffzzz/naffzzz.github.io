@@ -32,7 +32,10 @@
                         <a class="nav-link" href="#" id="workExperiencesBtn">Work Experiences</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" id="programmingBtn">Programming</a>
+                        <a class="nav-link" href="#" id="programmingBtn">Programmings</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" id="projectExperiencesBtn">Projects</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" id="publicationsBtn">Publications</a>
@@ -151,7 +154,7 @@
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
-            <span><strong>Web Programming:</strong> Laravel, React, CodeIgniter, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
+            <span><strong>Web Programming:</strong> Laravel, ReactJS, CodeIgniter, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
           </div>
           <hr>
           <div>
@@ -168,6 +171,40 @@
           <hr>
           <div>
             <span><strong>Database:</strong> MySQL</span>
+          </div>
+          <hr>
+        </div>
+      </div>
+
+      <center id="projectExperiences" class="reveal slideInFromBottom"><h1 class="subtitle">Project Experiences <i class="fa-solid fa-code"></i></h1></center>
+      <div class="row text-justify mb-5 reveal slideInFromBottom">
+        <div class="col bg-white">
+          <div>
+            <span><strong>ISIBOX:</strong> Marketplace</span>
+          </div>
+          <hr>
+          <div>
+            <span><strong>AKSENS:</strong> Sistem konsultasi guru BK </span>
+          </div>
+          <hr>
+          <div>
+            <span>Sistem deteksi salah ketik berbasis web</span>
+          </div>
+          <hr>
+          <div>
+            <span>Sistem kelas online Genta English Course</span>
+          </div>
+          <hr>
+          <div>
+            <span>Sistem raport online SMKN 1 Blitar berbasis web</span>
+          </div>
+          <hr>
+          <div>
+            <span>Sistem pembelajaran biologi bermuatan gamifikasi berbasis web</span>
+          </div>
+          <hr>
+          <div>
+            <span><strong>INTAN:</strong> sistem rekomendasi gangguan indihome</span>
           </div>
           <hr>
         </div>
@@ -324,6 +361,12 @@
           $("#programmingBtn").click(function() {
               $('html,body').animate({
                   scrollTop: $("#programming").offset().top},
+                  'slow');
+          });
+
+          $("#projectExperiencesBtn").click(function() {
+              $('html,body').animate({
+                  scrollTop: $("#projectExperiences").offset().top},
                   'slow');
           });
 
