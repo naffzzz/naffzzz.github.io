@@ -270,9 +270,9 @@
     <footer class="footer1 pb-5 pt-5">
       <div id="contactMe" class="container">
         <center>
-          <a href="https://www.facebook.com/naff.sugaku/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-facebook fa-xl"></i> Facebook </a>
-          <a href="https://www.instagram.com/zulfa_nafa/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-instagram"></i> Instagram </a>
-          <a href="https://www.linkedin.com/in/nafa-zulfa-ab85a1119/" style="text-decoration: none;" class="text-white"><i class="fa-brands fa-linkedin"></i> Linkedin </a>
+          <a href="https://www.facebook.com/naff.sugaku/" style="text-decoration: none;" class="text-white" target="_blank"><i class="fa-brands fa-facebook fa-xl"></i> Facebook </a>
+          <a href="https://www.instagram.com/zulfa_nafa/" style="text-decoration: none;" class="text-white" target="_blank"><i class="fa-brands fa-instagram fa-xl"></i> Instagram </a>
+          <a href="https://www.linkedin.com/in/nafa-zulfa-ab85a1119/" style="text-decoration: none;" class="text-white" target="_blank"><i class="fa-brands fa-linkedin fa-xl"></i> Linkedin </a>
           <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=naffzzz@gmail.com" style="text-decoration:none;" class="text-white" target="_blank"><i class="fa-solid fa-at fa-xl"></i> Email </a>
         </center>
       </div>
