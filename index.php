@@ -53,7 +53,7 @@
       <center class="slideInFromBottomDef" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
       <div class="row mb-5 slideInFromBottomDef">
         <div class="col bg-white text-justify">
-          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
+          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State University (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
             Currently he is a programmer at the Housestack, Indonesia. He is also interest in research with mainly focus on deep learning and computer vision.</span>
         </div>
       </div>
@@ -250,15 +250,15 @@
           </div>
           <hr>
           <div>
-            <span>2018 <strong>Best speaker of article presentation</strong>, Genta English Course in Pare, Kediri.</span>
+            <span>2018 <strong>Best speaker of article presentation</strong> at Genta English Course in Pare, Kediri.</span>
           </div>
           <hr>
           <div>
-            <span>2018 <strong>Graduated Cum Laude with honors</strong> from Informatic Engineering Education Bachelor Degree in Malang State Univerity.</span>
+            <span>2018 <strong>Graduated Cum Laude with honors</strong> from Informatic Engineering Education Bachelor Degree in Malang State University.</span>
           </div>
           <hr>
           <div>
-            <span>2009 <strong>First rank</strong> at Indonesia National Exam Olympiad in Islamic Junior Highschool 4 Kediri.</span>
+            <span>2009 <strong>First rank</strong> at Indonesia National Exam Olympiad in Islamic Junior High School 4 Kediri.</span>
           </div>
         </div>
       </div>
