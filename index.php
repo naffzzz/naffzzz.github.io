@@ -15,7 +15,7 @@
   </head>
   <body class="body-background">
     <!-- 4 - contained in center example -->
-    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top slideInFromTop">
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top slideInFromTopDef">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
       </button>
@@ -50,8 +50,8 @@
     <hr>
 
     <div class="container mt-5">
-      <center class="reveal slideInFromBottom" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
-      <div class="row mb-5 reveal slideInFromBottom">
+      <center class="slideInFromBottomDef" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
+      <div class="row mb-5 slideInFromBottomDef">
         <div class="col bg-white text-justify">
           <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State Univerity (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
             Currently he is a programmer at the Housestack, Indonesia. He is also interest in research with mainly focus on deep learning and computer vision.</span>

@@ -72,14 +72,13 @@
   transition: 2s all ease;
 } */
 
-.slideInFromTop {
+.slideInFromTopDef {
   animation: 1s slideInFromTop ease-in;
 }
 
-/* .slideInFromBottom {
-  animation: 1.5s slideInFromBottom ease-in;
-  transition: 2s all ease;
-} */
+.slideInFromBottomDef {
+  animation: 1s slideInFromBottom ease-in;
+}
 
 .body-background {
   background-color: #f5f5f5;
