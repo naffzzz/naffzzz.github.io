@@ -86,7 +86,7 @@
               </span>
             </div>
             <h4>Master Degree</h4>
-            Sept 2019 - Sept 2021<br>
+            September 2019 - September 2021<br>
             Informatic Engineering, Sepuluh Nopember Institut of Technology
           </div>
         </div>
@@ -117,7 +117,7 @@
               <span><i class="fa-solid fa-chalkboard-user text-success"></i> Intern Teacher</span>
             </div>
             <div>
-              <span>September 2017 - October 2017</span>
+              <span>Sept 2017 - October 2017</span>
             </div>
           </div>
           <div class="d-flex justify-content-between">
