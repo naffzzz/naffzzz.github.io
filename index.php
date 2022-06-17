@@ -150,7 +150,7 @@
         </div>
       </div>
 
-      <center id="programming" class="reveal slideInFromBottom"><h1 class="subtitle">Programming <i class="fa-solid fa-laptop-code"></i></h1></center>
+      <center id="programming" class="reveal slideInFromBottom"><h1 class="subtitle">Programming <i class="fa-solid fa-code"></i></h1></center>
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
@@ -176,7 +176,7 @@
         </div>
       </div>
 
-      <center id="projectExperiences" class="reveal slideInFromBottom"><h1 class="subtitle">Project Experiences <i class="fa-solid fa-code"></i></h1></center>
+      <center id="projectExperiences" class="reveal slideInFromBottom"><h1 class="subtitle">Project Experiences <i class="fa-solid fa-laptop-code"></i></h1></center>
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
@@ -200,7 +200,7 @@
           </div>
           <hr>
           <div>
-            <span>Sistem pembelajaran biologi bermuatan gamifikasi berbasis web</span>
+            <span><strong>GAMIFIKASI: </strong>Sistem pembelajaran biologi bermuatan gamifikasi berbasis web</span>
           </div>
           <hr>
           <div>
@@ -342,49 +342,49 @@
         $( document ).ready(function() {
           $("#biographyBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#biography").offset().top},
+                  scrollTop: $("#biography").offset().top -50},
                   'slow');
           });
 
           $("#educationBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#education").offset().top},
+                  scrollTop: $("#education").offset().top -50},
                   'slow');
           });
 
           $("#workExperiencesBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#workExperiences").offset().top},
+                  scrollTop: $("#workExperiences").offset().top -50},
                   'slow');
           });
 
           $("#programmingBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#programming").offset().top},
+                  scrollTop: $("#programming").offset().top -50},
                   'slow');
           });
 
           $("#projectExperiencesBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#projectExperiences").offset().top},
+                  scrollTop: $("#projectExperiences").offset().top -50},
                   'slow');
           });
 
           $("#publicationsBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#publications").offset().top},
+                  scrollTop: $("#publications").offset().top -50},
                   'slow');
           });
 
           $("#awardsBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#awards").offset().top},
+                  scrollTop: $("#awards").offset().top -50},
                   'slow');
           });
 
           $("#contactMeBtn").click(function() {
               $('html,body').animate({
-                  scrollTop: $("#contactMe").offset().top},
+                  scrollTop: $("#contactMe").offset().top -50},
                   'slow');
           });
         });
