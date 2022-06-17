@@ -143,6 +143,7 @@
               <span>Kediri, Indonesia</span>
             </div>
           </div>
+          <hr>
         </div>
       </div>
 
@@ -169,7 +170,6 @@
             <span><strong>Database:</strong> MySQL</span>
           </div>
           <hr>
-
         </div>
       </div>
 
@@ -260,6 +260,7 @@
           <div>
             <span>2009 <strong>First rank</strong> at National Exam Olympiad in Islamic Junior High School 4 Kediri.</span>
           </div>
+          <hr>
         </div>
       </div>
 
