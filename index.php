@@ -154,7 +154,7 @@
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
-            <span><strong>Web Programming:</strong> Laravel, ReactJS, CodeIgniter, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
+            <span><strong>Web Programming:</strong> Laravel, ReactJS, CodeIgniter, Node.js, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
           </div>
           <hr>
           <div>
@@ -166,7 +166,7 @@
           </div>
           <hr>
           <div>
-            <span><strong>Another Programming:</strong> C++, C, .NET</span>
+            <span><strong>Another Programming:</strong> C++, C, .NET, Java</span>
           </div>
           <hr>
           <div>
