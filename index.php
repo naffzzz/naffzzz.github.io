@@ -56,7 +56,7 @@
       <center class="reveal slideInFromBottom" id="biography"><h1 class="subtitle2">Biography <i class="fa-solid fa-briefcase"></i></h1></center>
       <div class="row mb-5 reveal slideInFromBottom">
         <div class="col bg-white text-justify">
-          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State University (UM), Kediri, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
+          <span>Nafa Zulfa was born in Kediri, Indonesia. He received the Bachelor degree in informatic engineering education from Malang State University (UM), Malang, Indonesia, and the Master degree in informatic engineering from Sepuluh Nopember Institut of Technology (ITS), Surabaya, Indonesia.
             Currently he is a programmer at the Housestack, Indonesia. He is also interest in research with mainly focus on deep learning and computer vision.</span>
         </div>
       </div>
