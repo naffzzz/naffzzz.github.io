@@ -98,10 +98,26 @@
         <div class="col bg-white">
           <div class="d-flex justify-content-between">
             <div>
+              <span><i class="fa-solid fa-user-gear text-info"></i> Back End Engineer</span>
+            </div>
+            <div>
+              <span>July 2022 - Currently</span>
+            </div>
+          </div>
+          <div class="d-flex justify-content-between">
+            <div>
+              <span>DOT Indonesia</span>
+            </div>
+            <div>
+              <span>Malang, Indonesia</span>
+            </div>
+          </div>
+          <div class="d-flex justify-content-between">
+            <div>
               <span><i class="fa-solid fa-user-gear text-info"></i> Programmer</span>
             </div>
             <div>
-              <span>June 2019 - present</span>
+              <span>June 2019 - July 2022</span>
             </div>
           </div>
           <div class="d-flex justify-content-between">
@@ -154,7 +170,7 @@
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
-            <span><strong>Web Programming:</strong> Laravel, ReactJS, CodeIgniter, Node.js, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap</span>
+            <span><strong>Web Programming:</strong> Laravel, ReactJS, CodeIgniter, Node.js, php, javascript, jQuery, AngularJS, Materialize, FontAwesome, Bootstrap, DotNet</span>
           </div>
           <hr>
           <div>
@@ -179,6 +195,9 @@
       <center id="projectExperiences" class="reveal slideInFromBottom"><h1 class="subtitle">Project Experiences <i class="fa-solid fa-laptop-code"></i></h1></center>
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
+          <div>
+            <span><strong>Pama:</strong> E-Budgeting</span>
+          </div>
           <div>
             <span><strong>ISIBOX:</strong> Marketplace</span>
           </div>
