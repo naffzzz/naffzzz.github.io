@@ -112,6 +112,7 @@
               <span>Malang, Indonesia</span>
             </div>
           </div>
+          <hr>
           <div class="d-flex justify-content-between">
             <div>
               <span><i class="fa-solid fa-user-gear text-info"></i> Programmer</span>
