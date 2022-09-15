@@ -101,7 +101,7 @@
               <span><i class="fa-solid fa-user-gear text-info"></i> Back End Engineer</span>
             </div>
             <div>
-              <span>July 2022 - Currently</span>
+              <span>July 2022 - Present</span>
             </div>
           </div>
           <div class="d-flex justify-content-between">
