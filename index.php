@@ -199,6 +199,7 @@
           <div>
             <span><strong>Pama:</strong> E-Budgeting</span>
           </div>
+          <hr>
           <div>
             <span><strong>ISIBOX:</strong> Marketplace</span>
           </div>
