@@ -240,6 +240,8 @@
             2022 Fifth International Conference on Vocational Education and Electrical Engineering (ICVEE),
             Surabaya, Indonesia
           </div>
+          <hr>
+          
           <div>
             <span><strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
             <span>"Optimize facial expression classification using geometric feature and machine learning".</span>
