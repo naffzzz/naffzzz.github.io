@@ -235,6 +235,12 @@
       <div class="row text-justify mb-5 reveal slideInFromBottom">
         <div class="col bg-white">
           <div>
+            <span>Shintami Chusnul Hidayati, Yeni Anistyasari, <strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
+            <span>"Exploring the Potential of Adopting Computer-graphics Animation to the Switch to a Plant-Based Diet".</span>
+            2022 Fifth International Conference on Vocational Education and Electrical Engineering (ICVEE),
+            Surabaya, Indonesia
+          </div>
+          <div>
             <span><strong>Nafa Zulfa</strong>, Pima Hani Safitri,</span>
             <span>"Optimize facial expression classification using geometric feature and machine learning".</span>
             2021 7th International Conference on Electrical, Electronics and Information Engineering (ICEEIE),
